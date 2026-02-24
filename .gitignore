@@ -1,0 +1,10 @@
+Dataset/*
+!Dataset/wataiData (1)/
+Dataset/wataiData (1)/*
+!Dataset/wataiData (1)/supplementary/
+!Dataset/wataiData (1)/example/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
