@@ -8,3 +8,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+
+# New Data folders
+data/
+processed/
+
+# Environment folder
+iot_env/
