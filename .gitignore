@@ -1,17 +1,14 @@
-Dataset/*
-!Dataset/wataiData (1)/
-Dataset/wataiData (1)/*
-!Dataset/wataiData (1)/supplementary/
-!Dataset/wataiData (1)/example/
-
+Dataset/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-
-# New Data folders
 data/
 processed/
-
-# Environment folder
+models/
 iot_env/
+cuda_compat/
+*.exe
+notebook_run_output.txt
+driver_search.html
+implementation_plan.md.resolved
